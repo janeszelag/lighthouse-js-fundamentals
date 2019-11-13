@@ -7,4 +7,4 @@ let numberOfVowels = function(data) {
   }
   return newArray.length;
 };
-console.log(numberOfVowels("why"));
+console.log(numberOfVowels("why are you home"));
